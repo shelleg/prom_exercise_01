@@ -21,8 +21,8 @@ In the taskbar, click the whale icon → Preferences → Advanced
 
 1. Run in terminal:
 ```sh
-git clone git@github.com:rafi/prom_tutorial.git
-cd prom_tutorial
+git clone git@github.com:shelleg/prom_exercise_01.git
+cd prom_exercise_01
 
 ```
 
